@@ -3,11 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -20,19 +16,22 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>s*.js</mask>
-      <mask>se'r*.js</mask>
-      <mask>ser*.js</mask>
-      <mask>serv*.js</mask>
-      <mask>servi*.js</mask>
-      <mask>service*.js</mask>
-      <mask>servic*.js</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
+      <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*</mask>
+      <mask>*j</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
