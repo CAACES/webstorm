@@ -14,9 +14,13 @@
           <option name="url" value="https://git.duapp.com/appidc1gqyqca7o" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://clong365@bitbucket.org/caaces_web/airport_full_web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\bae" />
+    <option name="cloneParentDir" value="D:\Projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
